@@ -10,7 +10,7 @@ namespace Labirint
     {
         static void Main(string[] args)
         {
-
+            //AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
         }
     }
 }
